@@ -3,4 +3,4 @@ I just created a To-Do List web app that lets you write, organize, and repriorit
 efficiently.
 
 
-To use the app simply clone it to your device Install the requirements
+# To use the app simply clone it to your device Install the requirements
